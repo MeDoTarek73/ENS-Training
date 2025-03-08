@@ -1,0 +1,14 @@
+{
+  "name": "ens-training",
+  "version": "1.0.0",
+  "description": "training node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Tarek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
